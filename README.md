@@ -104,4 +104,4 @@ Action: Little star claps with purr, bow is blown by wind.
 
 ## 许可证
 
-MIT License 
+MIT License # ComfyUI-StoryboardDistributor
