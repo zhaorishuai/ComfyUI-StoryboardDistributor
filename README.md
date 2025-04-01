@@ -24,12 +24,6 @@
 ### 节点界面
 ![节点界面](examples/screenshot_node.png)
 
-### 工作流示例
-![工作流示例](examples/screenshot_workflow.png)
-
-### 帮助信息
-![帮助信息](examples/screenshot_help.png)
-
 ## 安装方法
 
 ### 方法一：使用 Git 克隆
